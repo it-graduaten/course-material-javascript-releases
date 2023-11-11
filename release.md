@@ -12,3 +12,11 @@ Mon Sep 18 12:44:08 UTC 2023
 
 # Release v1.1.0
 Sat Sep 30 16:29:04 UTC 2023
+# Release v1.2.0
+Release created at Sat Nov 11 13:23:51 UTC 2023
+## Release Notes:
+
+
+- Added the first 4 lectures for Mobile Development.
+
+

@@ -28,3 +28,11 @@ Release created at Sat Nov 18 12:29:38 UTC 2023
 - Added lecture 5 for Mobile Development.<br/>- Added the exercises for lecture 3 for Mobile Development.
 
 
+# Release v1.2.2
+Release created at Sat Dec  2 00:39:05 UTC 2023
+## Release Notes:
+
+
+- Fixed an error in Mobile Lecture 3.<br/>- Added Mobile lecture 6<br/>- Added Mobile lecture 5 exercises
+
+

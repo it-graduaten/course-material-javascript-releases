@@ -36,3 +36,11 @@ Release created at Sat Dec  2 00:39:05 UTC 2023
 - Fixed an error in Mobile Lecture 3.<br/>- Added Mobile lecture 6<br/>- Added Mobile lecture 5 exercises
 
 
+# Release v1.2.3
+Release created at Sun Dec 10 16:06:08 UTC 2023
+## Release Notes:
+
+
+- Added Mobile lecture 6 exercises
+
+

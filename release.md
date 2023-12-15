@@ -52,3 +52,11 @@ Release created at Wed Dec 13 22:41:56 UTC 2023
 - Added Mobile lecture 7
 
 
+# Release v1.3.0
+Release created at Fri Dec 15 17:14:17 UTC 2023
+## Release Notes:
+
+
+- Added Mobile lecture 7 & Exercises
+
+

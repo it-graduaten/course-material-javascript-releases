@@ -60,3 +60,11 @@ Release created at Fri Dec 15 17:14:17 UTC 2023
 - Added Mobile lecture 7 & Exercises
 
 
+# Release v1.3.1
+Release created at Wed Dec 20 13:50:10 UTC 2023
+## Release Notes:
+
+
+- Added a remedial exercise for mobile development<br/>- Fixed a bug in the proxy edge functions
+
+

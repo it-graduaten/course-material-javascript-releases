@@ -68,3 +68,11 @@ Release created at Wed Dec 20 13:50:10 UTC 2023
 - Added a remedial exercise for mobile development<br/>- Fixed a bug in the proxy edge functions
 
 
+# Release v1.4.0
+Release created at Thu Feb  1 17:16:34 UTC 2024
+## Release Notes:
+
+
+- Added exam solutions for Mobile Development<br/>- Added exam solutions for Frontend Frameworks<br/>- Added Mobile Development lecture 1<br/>- Added Mobile Development lecture 1 exercises
+
+

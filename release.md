@@ -68,11 +68,3 @@ Release created at Wed Dec 20 13:50:10 UTC 2023
 - Added a remedial exercise for mobile development<br/>- Fixed a bug in the proxy edge functions
 
 
-# Release v1.3.1
-Release created at Wed Jan 31 08:31:25 UTC 2024
-## Release Notes:
-
-
-- Added a remedial exercise for mobile development<br/>- Fixed a bug in the proxy edge functions
-
-

@@ -76,3 +76,11 @@ Release created at Thu Feb  1 17:16:34 UTC 2024
 - Added exam solutions for Mobile Development<br/>- Added exam solutions for Frontend Frameworks<br/>- Added Mobile Development lecture 1<br/>- Added Mobile Development lecture 1 exercises
 
 
+# Release v1.4.1
+Release created at Sat Feb 17 17:26:13 UTC 2024
+## Release Notes:
+
+
+- Added Mobile Development lecture 2
+
+

@@ -92,3 +92,11 @@ Release created at Sat Feb 17 17:43:04 UTC 2024
 - Added Mobile Development lecture 2
 
 
+# Release v1.4.1
+Release created at Sat Feb 17 17:53:09 UTC 2024
+## Release Notes:
+
+
+- Added Mobile Development lecture 2
+
+

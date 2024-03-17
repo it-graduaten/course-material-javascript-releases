@@ -108,3 +108,11 @@ Release created at Thu Feb 22 22:53:17 UTC 2024
 - Added Mobile Development lecture 2 exercises
 
 
+# Release v1.4.3
+Release created at Sun Mar 17 18:48:07 UTC 2024
+## Release Notes:
+
+
+- Added Mobile Development lecture 3
+
+

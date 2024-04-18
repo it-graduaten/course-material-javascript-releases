@@ -124,3 +124,11 @@ Release created at Mon Mar 18 16:37:05 UTC 2024
 - Various typo's corrected
 
 
+# Release v1.5.0
+Release created at Thu Apr 18 17:06:45 UTC 2024
+## Release Notes:
+
+
+- Les 4 van mobile development is toegevoegd
+
+

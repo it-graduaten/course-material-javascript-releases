@@ -132,3 +132,11 @@ Release created at Thu Apr 18 17:06:45 UTC 2024
 - Les 4 van mobile development is toegevoegd
 
 
+# Release v1.5.1
+Release created at Mon Apr 22 09:37:03 UTC 2024
+## Release Notes:
+
+
+- Les 4 van mobiele applicaties is uitgebreid met informatie over het toevoegen van iconen en splash screens.
+
+

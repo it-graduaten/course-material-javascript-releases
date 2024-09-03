@@ -141,3 +141,16 @@ Release created at Mon Apr 22 09:37:03 UTC 2024
 
 
 
+# Release v2.0.0
+Release created at Tue Sep  3 19:43:35 UTC 2024
+
+
+## Release notes:
+- Updated the site structure to make it easier to navigate and find information.
+- Rewrote the frontend course to use Tailwind and shadcn/ui.
+- Updated the frontend PE assignment.
+- Added the August 2024 frontend exam.
+- Moved retired courses to the archive section.
+- Various other fixes and improvements.
+
+

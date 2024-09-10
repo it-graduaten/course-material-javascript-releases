@@ -163,3 +163,11 @@ Release created at Tue Sep 10 13:54:38 UTC 2024
 - Fixed some typo's.
 
 
+# Release v2.0.2
+Release created at Tue Sep 10 18:14:37 UTC 2024
+
+
+## Release notes:
+- Fixed a bug that prevented the homepage from being displayed.
+
+

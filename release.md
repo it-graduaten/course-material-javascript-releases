@@ -154,3 +154,12 @@ Release created at Tue Sep  3 19:43:35 UTC 2024
 - Various other fixes and improvements.
 
 
+# Release v2.0.1
+Release created at Tue Sep 10 13:54:38 UTC 2024
+
+
+## Release notes:
+- Added more info about the grading of the frontend exam.
+- Fixed some typo's.
+
+

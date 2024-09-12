@@ -6,7 +6,7 @@ graduaatsopleiding programmeren aan Thomas More Kempen.
 ## Cursusmateriaal
 
 Dit repository bevat Windows, Linux (Appimage) en macOS builds (Apple Silicon) voor het cursusmateriaal dat eveneens beschikbaar is
-op [https://it-graduaten-javascript.netlify.app/](https://it-graduaten-javascript.netlify.app/).
+op [https://javascript.pit-graduaten.be](https://javascript.pit-graduaten.be).
 Deze builds kunnen gearchiveerd worden zodat studenten, na het afstuderen, het materiaal uit hun opleiding kunnen behouden.
 
 Het is niet nodig om deze pagina te controleren voor nieuwe releases, als er een release beschikbaar is, wordt deze 

@@ -185,3 +185,16 @@ Assuming that the app is installed in /Applications (the default location), the 
 The app should now run without any issues.
 
 
+# Release v2.0.4
+Release created at Thu Sep 12 18:00:57 UTC 2024
+
+
+## Release notes:
+- Fixed automatic update notifications.
+## Notes on the macOS release
+MacOS builds are not signed since this required a paid certificate and these builds are only released as a favor to the students.
+Assuming that the app is installed in /Applications (the default location), the quarantine can be removed from the app using the following command.
+
+The app should now run without any issues.
+
+

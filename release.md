@@ -198,3 +198,18 @@ Assuming that the app is installed in /Applications (the default location), the 
 The app should now run without any issues.
 
 
+# Release v2.0.5
+Release created at Wed Sep 18 12:18:22 UTC 2024
+
+
+## Release notes:
+- Updated the shadcn/ui installation guide to the latest version.
+## Notes on the macOS release
+MacOS builds are not signed since this required a paid certificate and these builds are only released as a favor to the students.
+Assuming that the app is installed in /Applications (the default location), the quarantine can be removed from the app using the following command.
+```zsh
+xattr -dr com.apple.quarantine "/Applications/JavaScript Leerlijn.app"
+```
+The app should now run without any issues.
+
+

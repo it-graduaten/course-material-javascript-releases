@@ -213,3 +213,20 @@ xattr -dr com.apple.quarantine "/Applications/JavaScript Leerlijn.app"
 The app should now run without any issues.
 
 
+# Release v2.0.6
+Release created at Sun Oct  6 10:32:14 UTC 2024
+
+
+## Release notes:
+- Added backend lectures 1 & 2.
+- Updated to Tauri V2 from the RC. 
+- Various visual improvements/fixes.
+## Notes on the macOS release
+MacOS builds are not signed since this required a paid certificate and these builds are only released as a favor to the students.
+Assuming that the app is installed in /Applications (the default location), the quarantine can be removed from the app using the following command.
+```zsh
+xattr -dr com.apple.quarantine "/Applications/JavaScript Leerlijn.app"
+```
+The app should now run without any issues.
+
+

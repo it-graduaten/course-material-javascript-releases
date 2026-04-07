@@ -332,3 +332,18 @@ xattr -dr com.apple.quarantine "/Applications/JavaScript Leerlijn.app"
 The app should now run without any issues.
 
 
+# Release v3.1.0
+Release created at Tue Apr  7 22:02:40 UTC 2026
+
+
+## Release notes:
+- Updated the JavaScript Advanced lectures for 25-26
+## Notes on the macOS release
+MacOS builds are not signed since this required a paid certificate and these builds are only released as a favor to the students.
+Assuming that the app is installed in /Applications (the default location), the quarantine can be removed from the app using the following command.
+```zsh
+xattr -dr com.apple.quarantine "/Applications/JavaScript Leerlijn.app"
+```
+The app should now run without any issues.
+
+
